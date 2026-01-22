@@ -2,7 +2,7 @@ import { Hotspot, NavItem } from './types';
 
 // Using a high-quality floral image from picsum as a placeholder for the garden map
 // Ideally this would be a custom illustration
-export const HERO_IMAGE_URL = 'https://picsum.photos/id/360/1920/1080'; 
+export const HERO_IMAGE_URL = './flowers.jpg'; 
 
 export const FLOWER_HOTSPOTS: Hotspot[] = [
   {
